@@ -1,16 +1,16 @@
-# tourcamp
+# 투어캠△
 
-A new Flutter project.
+투어캠△은 Flutter를 이용하여 만든 한국관광공사 API를 이용한 주변 관광지 정보앱입니다.
 
-## Getting Started
+## 사용된 주요 기술 스택
 
-This project is a starting point for a Flutter application.
+:bulb: Provider (State Manager)
 
-A few resources to get you started if this is your first Flutter project:
+:bulb: Retrofit (Rest API Call)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+:bulb: Shared Preferences (Local Data Storage)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+:bulb: KakaoMap (Map)
+
+## 개인정보 처리 방침
+투어캠△은 개인정보를 수집하지 않습니다.
