@@ -2,7 +2,7 @@
 
 투어캠△은 Flutter를 이용하여 만든 한국관광공사 API를 이용한 주변 관광지 정보앱입니다.
 
-PlayeStroe : https://play.google.com/store/apps/details?id=com.silvershort.tourcamp
+플레이스토어 다운로드 : https://play.google.com/store/apps/details?id=com.silvershort.tourcamp
 
 ## 사용된 주요 기술 스택
 
